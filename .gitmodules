@@ -1,0 +1,3 @@
+[submodule "timetable-service"]
+	path = timetable-service
+	url = ./timetable-service
