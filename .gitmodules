@@ -1,3 +1,4 @@
 [submodule "timetable-service"]
 	path = timetable-service
 	url = https://github.com/sustertine/timetable-service
+	branch = develop
