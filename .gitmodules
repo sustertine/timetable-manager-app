@@ -4,4 +4,5 @@
 	branch = develop
 [submodule "group-service"]
 	path = group-service
-	url = ./group-service
+	url = https://github.com/sustertine/group-service
+	branch = develop
