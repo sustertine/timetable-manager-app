@@ -2,3 +2,6 @@
 	path = timetable-service
 	url = https://github.com/sustertine/timetable-service
 	branch = develop
+[submodule "group-service"]
+	path = group-service
+	url = ./group-service
