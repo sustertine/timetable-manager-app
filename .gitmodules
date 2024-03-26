@@ -6,3 +6,7 @@
 	path = group-service
 	url = https://github.com/sustertine/group-service
 	branch = develop
+[submodule "user-service"]
+    path = user-service
+    url = https://github.com/sustertine/user-service
+    branch = develop
